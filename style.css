@@ -185,3 +185,10 @@ a.anchor {
 .carousel-caption {
 	text-shadow: 0 0 5px black, 0 0 5px black;
 }
+
+.block-dark-down {
+	width: 100% !important;
+	background: rgba(0, 0, 0, 0.75);
+	padding: 20px;
+	border-radius:15px;
+}
